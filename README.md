@@ -1,1 +1,1 @@
-# my_journal
+# My README #
