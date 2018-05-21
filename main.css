@@ -1,8 +1,30 @@
 body {
-    background-color: green;
-    color: blue;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5b/Creete_background.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: auto;
 }
 
-li {
-    color: yellow
+#heading {
+    margin: auto;
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Shadows Into Light', cursive;
+    border-bottom-style: solid;
+    border-bottom-color: linen; 
+    width: 90%;
+}
+
+.entry {
+    background-color: darkgray;
+    color: linen;
+    margin: 10%;
+    font-family: 'Gloria Hallelujah', cursive;
+    border-style: outset;
+    border-width: .3em;
+}
+
+#entry-heading{
+    text-align: center;
+    border: double;
 }
